@@ -1,6 +1,6 @@
 # Zomato_EDA-project-2-
 Zomato Exploratory Data Analysis
-Top 5 country who use tomato - India,us,uk,brazil,uae
+Top 5 country who use Zomato - India,us,uk,brazil,uae
 
 Then I check their ratings and counts 
 Maximum rating count was 0 and it is given by India.
